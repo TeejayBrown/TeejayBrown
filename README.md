@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeejayBrown
-- 👀 I’m interested in DevOps/Application Developer
+- 👀 I’m interested in DevOps/Application Development
 - 🌱 I’m currently learning kubernetes
 - 📫 You can reach me @taiwo.omoleye@outlook.com
 
